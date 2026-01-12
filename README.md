@@ -25,6 +25,7 @@ Traditional body fat measurement methods are expensive (DEXA: $50-150) or inconv
 
 
 
+
 📊 Dataset
 
 
@@ -45,6 +46,7 @@ Cleaned to remove impossible values (e.g., 0% body fat) and outliers
 
 
 
+
 🛠️ Approach
 
 
@@ -53,7 +55,7 @@ Cleaned to remove impossible values (e.g., 0% body fat) and outliers
 
 
 
-1\\. Data Cleaning
+1. Data Cleaning
 
 
 
@@ -77,7 +79,8 @@ Excluded density feature (data leakage - directly calculates body fat)
 
 
 
-2\\. Feature Engineering
+
+2. Feature Engineering
 
 
 
@@ -105,7 +108,8 @@ Age-Weight Interaction
 
 
 
-3\\. Model Training
+
+3. Model Training
 
 
 
@@ -137,7 +141,8 @@ CV R²: 0.672716
 
 
 
-4\\. Key Insights
+
+4. Key Insights
 
 
 
@@ -161,11 +166,13 @@ Ridge regularization prevented overfitting
 
 
 
+
 💻 Tech Stack
 
 
 
 Python • scikit-learn • pandas • Git
+
 
 
 
@@ -189,7 +196,7 @@ cd body-fat-prediction
 
 
 
-\\# Install dependencies
+# Install dependencies
 
 
 
@@ -228,6 +235,7 @@ Select Manual Input to enter your own measurements.
 
 
 The app outputs predicted body fat and the fitness category.
+
 
 
 
@@ -289,6 +297,7 @@ The app outputs predicted body fat and the fitness category.
 
 
 
+
 🔮 Future Work
 
 
@@ -315,12 +324,12 @@ Mobile app deployment
 
 
 
+
 👤 Author
 
 
 
 Ayeni OLuwatosin
-
 
 
 
