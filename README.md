@@ -203,7 +203,7 @@ Install dependencies
 pip install -r requirements.txt  
 
 
-
+<br></br>
 
 
 
@@ -238,7 +238,7 @@ The app outputs predicted body fat and the fitness category.
 
 
 
-
+<br></br>
 
 
 📁 Project Structure
@@ -294,7 +294,7 @@ The app outputs predicted body fat and the fitness category.
 ```
 
 
-
+<br></br>
 
 
 
@@ -318,7 +318,7 @@ Computer vision for automated measurements from photos
 
 Mobile app deployment
 
-<br</br>
+<br></br>
 
 
 
