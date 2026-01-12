@@ -17,7 +17,7 @@ Machine learning model that predicts body fat percentage from simple body measur
 
 
 
-Traditional body fat measurement methods are expensive (DEXA: $50-150) or inconvenient (hydrostatic weighing). This tool provides free, instant predictions using machine learning. --- 
+Traditional body fat measurement methods are expensive (DEXA: $50-150) or inconvenient (hydrostatic weighing). This tool provides free, instant predictions using machine learning. <br><br/>
 
 
 
