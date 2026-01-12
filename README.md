@@ -1,4 +1,4 @@
-💪 Body Fat Percentage Predictor
+#💪 Body Fat Percentage Predictor
 
 
 
@@ -196,7 +196,7 @@ cd body-fat-prediction
 
 
 
-# Install dependencies
+Install dependencies
 
 
 
@@ -291,7 +291,7 @@ The app outputs predicted body fat and the fitness category.
 
 └── README.md
 
-
+```
 
 
 
@@ -330,8 +330,6 @@ Mobile app deployment
 
 
 Ayeni OLuwatosin
-
-
 
 
 ayenitosin39@gmail.com
