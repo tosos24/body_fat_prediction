@@ -241,7 +241,7 @@ The app outputs predicted body fat and the fitness category.
 
 
 
-\\## 📁 Project Structure
+📁 Project Structure
 
 
 
