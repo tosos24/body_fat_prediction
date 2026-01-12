@@ -265,7 +265,7 @@ The app outputs predicted body fat and the fitness category.
 
 
 
-│   └── best\\\_model.pkl      # Trained model
+│   └── best_model.pkl      # Trained model
 
 
 
@@ -273,15 +273,15 @@ The app outputs predicted body fat and the fitness category.
 
 
 
-│   ├── 01\\\_eda.ipynb        # Data exploration
+│   ├── 01_eda.ipynb        # Data exploration
 
 
 
-│   ├── 02\\\_feature\\\_engineering.ipynb
+│   ├── 02_feature_engineering.ipynb
 
 
 
-│   └── 03\\\_modeling.ipynb   # Model training
+│   └── 03_modeling.ipynb   # Model training
 
 
 
