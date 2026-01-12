@@ -41,7 +41,7 @@ Target: Body fat percentage from underwater weighing
 Cleaned to remove impossible values (e.g., 0% body fat) and outliers  
 
 
-
+<br></br>
 
 
 
@@ -74,7 +74,7 @@ Applied IQR outlier detection
 Excluded density feature (data leakage - directly calculates body fat)  
 
 
-
+<br></br>
 
 
 
@@ -105,7 +105,7 @@ Age-Weight Interaction
 
 
 
-
+<br></br>
 
 
 
@@ -137,7 +137,7 @@ CV R²: 0.672716
 
 
 
-
+<br></br>
 
 
 
@@ -163,7 +163,7 @@ Ridge regularization prevented overfitting
 
 
 
-
+<br></br>
 
 
 
@@ -173,7 +173,7 @@ Ridge regularization prevented overfitting
 
 Python • scikit-learn • pandas • Git  
 
-
+<br></br>
 
 
 🚀 Quick Start
@@ -318,7 +318,7 @@ Computer vision for automated measurements from photos
 
 Mobile app deployment
 
-
+<br</br>
 
 
 
