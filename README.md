@@ -1,4 +1,4 @@
-#💪 Body Fat Percentage Predictor
+💪 Body Fat Percentage Predictor
 
 
 
@@ -17,7 +17,7 @@ Machine learning model that predicts body fat percentage from simple body measur
 
 
 
-Traditional body fat measurement methods are expensive (DEXA: $50-150) or inconvenient (hydrostatic weighing). This tool provides free, instant predictions using machine learning.
+Traditional body fat measurement methods are expensive (DEXA: $50-150) or inconvenient (hydrostatic weighing). This tool provides free, instant predictions using machine learning.  
 
 
 
@@ -38,7 +38,7 @@ Target: Body fat percentage from underwater weighing
 
 
 
-Cleaned to remove impossible values (e.g., 0% body fat) and outliers
+Cleaned to remove impossible values (e.g., 0% body fat) and outliers  
 
 
 
@@ -47,7 +47,7 @@ Cleaned to remove impossible values (e.g., 0% body fat) and outliers
 
 
 
-🛠️ Approach
+🛠️ Approach  
 
 
 
@@ -71,7 +71,7 @@ Applied IQR outlier detection
 
 
 
-Excluded density feature (data leakage - directly calculates body fat)
+Excluded density feature (data leakage - directly calculates body fat)  
 
 
 
@@ -100,7 +100,7 @@ Chest-to-Abdomen Ratio
 
 
 
-Age-Weight Interaction
+Age-Weight Interaction  
 
 
 
@@ -133,7 +133,7 @@ Test MAE: 3.028
 
 
 
-CV R²: 0.672716
+CV R²: 0.672716  
 
 
 
@@ -158,7 +158,7 @@ Model performs best for typical body types (15-25% body fat)
 
 
 
-Ridge regularization prevented overfitting
+Ridge regularization prevented overfitting  
 
 
 
@@ -171,7 +171,7 @@ Ridge regularization prevented overfitting
 
 
 
-Python • scikit-learn • pandas • Git
+Python • scikit-learn • pandas • Git  
 
 
 
@@ -188,7 +188,7 @@ git clone https://github.com/tosos24/body-fat-prediction.git
 
 
 
-cd body-fat-prediction
+cd body-fat-prediction  
 
 
 
@@ -200,7 +200,7 @@ Install dependencies
 
 
 
-pip install -r requirements.txt
+pip install -r requirements.txt  
 
 
 
@@ -298,7 +298,7 @@ The app outputs predicted body fat and the fitness category.
 
 
 
-🔮 Future Work
+🔮 Future Work  
 
 
 
@@ -329,7 +329,7 @@ Mobile app deployment
 
 
 
-Ayeni OLuwatosin
+Ayeni Oluwatosin
 
 
 ayenitosin39@gmail.com
