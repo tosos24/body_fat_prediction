@@ -5,8 +5,7 @@
 Machine learning model that predicts body fat percentage from simple body measurements. No expensive equipment needed, just a tape measure!
 
 
-
-
+<img width="1920" height="852" alt="screenshot" src="https://github.com/user-attachments/assets/edc6e878-8f4f-4f2b-8a1c-673477a2dbd7" />
 
 
 
