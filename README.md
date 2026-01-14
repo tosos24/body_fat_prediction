@@ -322,19 +322,3 @@ Mobile app deployment
 
 
 
-
-
-
-👤 Author
-
-
-
-Ayeni Oluwatosin
-
-
-ayenitosin39@gmail.com
-
-
-
-
-
